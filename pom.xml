@@ -7,7 +7,7 @@
 
 	<scm>
 		<developerConnection>
-			scm:git:git@github.com:kadharsk/sping-hibernate.app.git
+			scm:git:git@github.com:kadharsk/test-.git
 		</developerConnection>
 	  <tag>HEAD</tag>
   </scm>
